@@ -1,1 +1,6 @@
 *.csv
+*.jpg
+*.png
+build/*
+dist/*
+*.spec
